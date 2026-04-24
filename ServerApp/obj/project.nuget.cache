@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmymPeYP87k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WILMA\\Desktop\\FullStackApp\\ServerApp\\ServerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WILMA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\WILMA\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
